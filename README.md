@@ -6,6 +6,7 @@ per poi visualizzare il movimento e le traiettorie dei satelliti scelti.
 
 Alcune selezioni possono non trovare satelliti e fanno fallire la simulazione
 
-All'interno della visualizzazione è possibile selezionare satelliti e ottenere informazioni su di essi
+All'interno della visualizzazione è possibile selezionare satelliti e ottenere informazioni su di essi, in particolare quando si seleziona un setellite compare
+un cerchio sulla superficie della Terra che racchiude l'insieme dei punti per cui il satellite si trova più di 10° sopra l'orizzonte.
 
 satelliti.db è una versione semplificata in SQLite della base di dati del progetto d'esame, che presenta solo le tabelle e gli attributi necessari per l'applicazione
