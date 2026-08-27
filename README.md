@@ -1,7 +1,8 @@
 L'applicazione simulazione.py necessita dei pacchetti satkit e pyvista per funzionare.
 
 simulazione.py cerca i satelliti che soddisfano alcune condizioni all'interno di satelliti.db,
-ad esempio cercando i satelliti che sono 10° sopra l'orizzonte rispetto a un punto sulla superficie terrestre in un determinato intervallo di tempo a scelta.
+ad esempio cercando i satelliti che sono 10° sopra l'orizzonte rispetto a un punto sulla superficie terrestre in un determinato intervallo di tempo a scelta,
+per poi visualizzare il movimento e le traiettorie dei satelliti scelti.
 
 Alcune selezioni possono non trovare satelliti e fanno fallire la simulazione
 
