@@ -5,4 +5,4 @@ ad esempio cercando i satelliti che sono 10° sopra l'orizzonte rispetto a un pu
 
 Alcune selezioni possono non trovare satelliti e fanno fallire la simulazione
 
-satelliti.db è una versione semplificata in SQLite del database del progetto d'esame, che presenta solo le tabelle e gli attributi necessari per l'applicazione
+satelliti.db è una versione semplificata in SQLite della base di dati del progetto d'esame, che presenta solo le tabelle e gli attributi necessari per l'applicazione
